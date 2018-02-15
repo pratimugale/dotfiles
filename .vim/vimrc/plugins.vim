@@ -88,7 +88,7 @@ Bundle 'spf13/PIV'
 Bundle 'othree/html5.vim'
 Bundle 'groenewege/vim-less'
 Bundle 'slim-template/vim-slim'
-Bundle 'klen/python-mode'
+" Bundle 'klen/python-mode'
 Bundle 'django.vim'
 
 Bundle 'guns/vim-clojure-static'
