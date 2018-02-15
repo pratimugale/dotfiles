@@ -1,4 +1,4 @@
-# Brandon's dotfiles
+# Pratim's dotfiles
 
 Configuration files for bash, vim, git, irb, and tmux.
 
