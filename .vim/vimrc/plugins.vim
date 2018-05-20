@@ -88,7 +88,7 @@ Bundle 'spf13/PIV'
 Bundle 'othree/html5.vim'
 Bundle 'groenewege/vim-less'
 Bundle 'slim-template/vim-slim'
-" Bundle 'klen/python-mode'
+"Bundle 'klen/python-mode'
 Bundle 'django.vim'
 
 Bundle 'guns/vim-clojure-static'
@@ -109,3 +109,14 @@ Bundle 'sjl/badwolf'
 
 " Utilities, Dependencies
 Bundle 'L9'
+"
+"ADDED BY PRATIM 
+"
+" jedi python
+"Bundle 'davidhalter/jedi-vim'
+"Python autocomplete
+Bundle 'vim-scripts/Pydiction'
+"Python Syntax highlighting
+Bundle 'vim-python/python-syntax'
+" Syntax highlighting for jinja2
+Bundle 'pallets/jinja'
